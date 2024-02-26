@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLocator.Server", "EventLocator.Server\EventLocator.Server.csproj", "{12E95223-6B95-42F5-9F78-843C16ABEAED}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "eventlocator.client", "eventlocator.client\eventlocator.client.esproj", "{16ABD1E5-FE3C-492B-8EA6-6FEF792BE2D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E95223-6B95-42F5-9F78-843C16ABEAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E95223-6B95-42F5-9F78-843C16ABEAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E95223-6B95-42F5-9F78-843C16ABEAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E95223-6B95-42F5-9F78-843C16ABEAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16ABD1E5-FE3C-492B-8EA6-6FEF792BE2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16ABD1E5-FE3C-492B-8EA6-6FEF792BE2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16ABD1E5-FE3C-492B-8EA6-6FEF792BE2D4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{16ABD1E5-FE3C-492B-8EA6-6FEF792BE2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16ABD1E5-FE3C-492B-8EA6-6FEF792BE2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16ABD1E5-FE3C-492B-8EA6-6FEF792BE2D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65598446-7532-48BB-8E2C-9CD1229454E3}
+	EndGlobalSection
+EndGlobal

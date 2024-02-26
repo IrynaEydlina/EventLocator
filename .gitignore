@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.EventLocator/.idea
+/.vs
+/eventlocator.client/obj/Debug
+/EventLocator.Server/bin/Debug/net8.0
+/EventLocator.Server/obj
